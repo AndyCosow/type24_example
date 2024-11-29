@@ -116,6 +116,9 @@ setInterval(() => {
 }, 50)
 
 
+console.log('SOME RANDOM')
+
+
 /// add different enemies (random icons)
 /// Make so skulls disappear after some tome
 /// for each killed enemy, add some money to account
